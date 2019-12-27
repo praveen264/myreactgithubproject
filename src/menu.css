@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+}
+ul
+{
+    display: flex;
+    list-style: none;
+    margin-left: 401px;
+}
+li
+{
+    padding-right: 88px;
+    font-size: 23px;
+}
+.routing
+{
+    background: aquamarine;
+    margin-left: -32px;
+    margin-right: -32px;
+}
